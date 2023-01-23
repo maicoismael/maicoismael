@@ -4,6 +4,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=maicoismael&bg_color=000000&color=b0c4de&line=b0c4de&point=c12f2f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maicoismael&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maicoismael&show_icons=true&count_private=true&hide_border=true&title_color=B0C4DE&icon_color=B0C4DE&text_color=c9d1d9&bg_color=0d1117" alt="Maico Ismael github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maicoismael&layout=compact&hide_border=true&title_color=B0C4DE&text_color=ff91a4&bg_color=0d1117" />
